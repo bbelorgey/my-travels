@@ -1,0 +1,9 @@
+.myDiv {
+    margin: auto;
+    text-align:center;
+}
+
+.myImg {
+    border : 10px solid blue;
+    border-radius: 5px;
+}
